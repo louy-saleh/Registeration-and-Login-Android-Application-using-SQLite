@@ -1,0 +1,24 @@
+<resources>
+    //MainActivity
+    <string name="app_name">finalHomework</string>
+    <string name="login_str">Login</string>
+    <string name="register_str">Register</string>
+    <string name="update_info_str">Update Info</string>
+    <string name="delete_user_str">Delete user</string>
+
+    //LoginActivity
+    <string name="username_et">Enter Username</string>
+    <string name="password_et">Enter Password</string>
+    <string name="confirm_password_et">Confirm Password</string>
+
+    //update Info
+    <string name="update_info_textView">Hi User, you can update your name here!</string>
+    <string name="update_username">Enter New Username</string>
+    <string name="update_account">Update Account</string>
+
+    //delete user
+    <string name="delete_user_textView">Hi User, you can delete your account here!</string>
+    <string name="delete_account">Delete Account</string>
+
+
+</resources>
